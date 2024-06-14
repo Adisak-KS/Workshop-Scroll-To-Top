@@ -88,6 +88,10 @@ h2{
     margin: 3px;
 }
 
+.flex > p{
+    text-align: justify;
+}
+
 .top{
     position: fixed;
     bottom: 3rem;
